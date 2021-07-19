@@ -13,7 +13,7 @@ AWS.config.credentials = credentials;
 
 let params = {
     Message: 'Toda vez que a Helena é chora chora ela ri escondido',
-    PhoneNumber: '+5511983530159',    
+    PhoneNumber: '+****',    
 }
 
 
